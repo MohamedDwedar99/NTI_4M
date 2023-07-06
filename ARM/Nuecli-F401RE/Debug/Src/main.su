@@ -1,0 +1,4 @@
+../Src/main.c:29:6:_delay_ms	24	static,ignoring_inline_asm
+../Src/main.c:45:5:main	16	static,ignoring_inline_asm
+../Src/main.c:76:6:TOG	8	static
+../Src/main.c:81:6:DMA1_Channely_IRQHandler	4	static

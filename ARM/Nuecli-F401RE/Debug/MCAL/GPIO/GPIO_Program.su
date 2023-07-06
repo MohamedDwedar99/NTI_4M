@@ -1,0 +1,4 @@
+../MCAL/GPIO/GPIO_Program.c:16:6:GPIO_voidSetPinDirection	16	static
+../MCAL/GPIO/GPIO_Program.c:89:6:GPIO_voidSetPinValue	16	static
+../MCAL/GPIO/GPIO_Program.c:134:6:GPIO_voidGetPinValue	24	static
+../MCAL/GPIO/GPIO_Program.c:160:6:GPIO_voidTogPinValue	16	static

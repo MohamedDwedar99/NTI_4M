@@ -1,0 +1,6 @@
+../MCAL/STK/STK_Program.c:23:6:STK_voidInit	4	static
+../MCAL/STK/STK_Program.c:30:6:STK_voidBusyWait	16	static,ignoring_inline_asm
+../MCAL/STK/STK_Program.c:49:6:STK_voidSingleInterval	16	static
+../MCAL/STK/STK_Program.c:65:6:STK_voidPeriodicInterval	16	static
+../MCAL/STK/STK_Program.c:81:6:STK_voidStopInterval	4	static
+../MCAL/STK/STK_Program.c:90:7:SysTick_Handler	16	static
